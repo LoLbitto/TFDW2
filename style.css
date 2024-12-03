@@ -1,0 +1,21 @@
+body {
+	background-color: #3c3a4a;
+}
+
+.conteudo {
+	white-space: normal;
+	margin-left: 25vw;
+	margin-right: 25vw;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	white-space: normal;
+	color: white;
+	font-size: 20px;
+	margin-left: 10px;
+}
