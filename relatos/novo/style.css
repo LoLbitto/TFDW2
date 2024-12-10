@@ -1,0 +1,20 @@
+body {
+	background-color: #fed7b0;
+}
+
+header {
+	background-color: #ff9030;
+}
+
+.formulario {
+    width: fit-content;
+
+    margin-left: 39vw;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: #ff9030;
+
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #ff7e0c;
+}
