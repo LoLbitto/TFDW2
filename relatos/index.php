@@ -15,7 +15,7 @@
 	
 	<div class = "relatos">
 		<?php
-			$conn = new mysqli("localhost", "root", "", "dbDesvWeb");
+			$conn = new mysqli("localhost", "root", "", "bdDesvWeb");
 
 			$result = $conn -> query("select * from tbRelatos");
 
